@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "8073899159",
-    "project_id": "mentalhealthapp-e2f3e",
-    "storage_bucket": "mentalhealthapp-e2f3e.appspot.com"
+    "project_number": "186013134088",
+    "firebase_url": "https://flutter-sample-1bedd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-sample-1bedd",
+    "storage_bucket": "flutter-sample-1bedd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:8073899159:android:07ae2eb61464a215c5cdd2",
+        "mobilesdk_app_id": "1:186013134088:android:0331e969b59817928d50bd",
         "android_client_info": {
           "package_name": "com.example.mental_health_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "8073899159-n0siqgtmup2vpqle1e84khq26bbk5b6g.apps.googleusercontent.com",
+          "client_id": "186013134088-eursm2siaurks6j7u1qt1qvc054rvma5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBQs17cbJslOpC0smJcc7Y15ZBYOg17edE"
+          "current_key": "AIzaSyAadxXQZgL1A7sz8DvcuebNfaDuyUxCuss"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "8073899159-n0siqgtmup2vpqle1e84khq26bbk5b6g.apps.googleusercontent.com",
+              "client_id": "186013134088-eursm2siaurks6j7u1qt1qvc054rvma5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
